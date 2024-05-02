@@ -33,3 +33,7 @@ html {
 .ant-input-affix-wrapper:hover {
   border-color: #01B4E4;
 }
+
+.ant-select {
+  display: none !important;
+}
